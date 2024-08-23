@@ -2,7 +2,7 @@ package exercicios;
 
 public class Elefante extends AnimalTerrestreAB {
 
-    private String especie;
+    private final String especie;
 
     public Elefante(String nome, String tipoAnimal, int idade, String habitat, double altura, double peso, int quantidadePatas, String especie) {
         super(nome, tipoAnimal, idade, habitat, altura, peso, quantidadePatas);

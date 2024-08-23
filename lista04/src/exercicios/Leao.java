@@ -2,7 +2,7 @@ package exercicios;
 
 public class Leao extends AnimalTerrestreAB {
 
-    private String territorio;
+    private final String territorio;
 
     public Leao(String nome, String tipoAnimal, int idade, String habitat, double altura, double peso, int quantidadePatas, String territorio) {
         super(nome, tipoAnimal, idade, habitat, altura, peso, quantidadePatas);

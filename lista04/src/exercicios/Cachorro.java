@@ -2,7 +2,7 @@ package exercicios;
 
 public class Cachorro extends AnimalTerrestreAB {
 
-    private String raca;
+    private final String raca;
 
     public Cachorro(String nome, String tipoAnimal, int idade, String habitat, double altura, double peso, int quantidadePatas, String raca) {
         super(nome, tipoAnimal, idade, habitat, altura, peso, quantidadePatas);

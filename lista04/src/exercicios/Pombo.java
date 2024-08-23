@@ -2,7 +2,7 @@ package exercicios;
 
 public class Pombo extends AnimalVoadorAB {
 
-    private String cor;
+    private final String cor;
 
     public Pombo(String nome, String tipoAnimal, int idade, String habitat, double altura, double peso, int quantidadeAssas, double envergaduraAssa, String cor) {
         super(nome, tipoAnimal, idade, habitat, altura, peso, quantidadeAssas, envergaduraAssa);

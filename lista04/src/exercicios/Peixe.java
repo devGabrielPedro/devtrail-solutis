@@ -2,7 +2,7 @@ package exercicios;
 
 public class Peixe extends AnimalMarinhoAB {
 
-    private String tipoDeAgua;
+    private final String tipoDeAgua;
 
     public Peixe(String nome, String tipoAnimal, int idade, String habitat, double altura, double peso, String tipoDeAgua) {
         super(nome, tipoAnimal, idade, habitat, altura, peso);
