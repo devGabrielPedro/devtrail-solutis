@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/devtrail-solutis.iml" filepath="$PROJECT_DIR$/devtrail-solutis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista04/lista04.iml" filepath="$PROJECT_DIR$/lista04/lista04.iml" />
+    </modules>
+  </component>
+</project>
