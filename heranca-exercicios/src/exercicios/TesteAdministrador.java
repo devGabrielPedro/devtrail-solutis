@@ -2,7 +2,7 @@ package exercicios;
 
 public class TesteAdministrador {
     public static void main(String[] args) {
-        Administrador administrador = new Administrador("Gabriel Pedro", "EQ 6/7 Bloco A", 4, 3000.0, 11.0, 700.0);
+        Administrador administrador = new Administrador("Gabriel Pedro", "EQ 6/7 Bloco A", "55555-5555", 5, 3000.0, 11.0, 700.0);
 
         System.out.println("Detalhes do Administrador:");
         System.out.println(administrador);

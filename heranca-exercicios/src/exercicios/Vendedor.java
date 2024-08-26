@@ -44,4 +44,11 @@ public class Vendedor extends  Empregado {
     public void setComissao(double comissao) {
         this.comissao = comissao;
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                "\nValor das vendas: " + valorVendas +
+                "\nComissão: " + comissao + "%";
+    }
 }

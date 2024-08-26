@@ -33,8 +33,7 @@ public class Administrador extends Empregado {
 
     @Override
     public String toString() {
-        return "Administrador{" +
-                "ajudaDeCusto=" + ajudaDeCusto +
-                "} " + super.toString();
+        return super.toString() +
+                "\nAjuda de Custo: " + ajudaDeCusto;
     }
 }

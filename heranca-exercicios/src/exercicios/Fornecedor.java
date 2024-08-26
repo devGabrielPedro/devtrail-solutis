@@ -43,9 +43,8 @@ public class Fornecedor extends Pessoa {
 
     @Override
     public String toString() {
-        return "Fornecedor{" +
-                "valorCredito=" + valorCredito +
-                ", valorDivida=" + valorDivida +
-                "} " + super.toString();
+        return super.toString() +
+                "\nValor do Crédito: " + valorCredito +
+                "\nValor da Dívida: " + valorDivida;
     }
 }
