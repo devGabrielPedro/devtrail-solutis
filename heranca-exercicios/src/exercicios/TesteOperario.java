@@ -1,7 +1,6 @@
 package exercicios;
 
 import java.util.ArrayList;
-import java.util.logging.SimpleFormatter;
 
 public class TesteOperario {
     public static void main(String[] args) {
