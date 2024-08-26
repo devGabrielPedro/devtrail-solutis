@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/devtrail-solutis.iml" filepath="$PROJECT_DIR$/devtrail-solutis.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca-exercicios/heranca-exercicios.iml" filepath="$PROJECT_DIR$/heranca-exercicios/heranca-exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca-polimorfismo/heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/heranca-polimorfismo/heranca-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista04/lista04.iml" filepath="$PROJECT_DIR$/lista04/lista04.iml" />
     </modules>
   </component>
